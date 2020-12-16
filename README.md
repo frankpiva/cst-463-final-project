@@ -4,6 +4,6 @@ Exploring abstractive and extractive text summarization against COVID-19 article
 
 ## Contributors:
 
-* [Michael Haidar](mhaidar@csumb.edu)
+* [Michael Haidar](https://github.com/Mhaidar117)
 * [Federico Rubino](https://github.com/federicorubino)
 * [Frank Piva](https://github.com/frankpiva)
